@@ -7,8 +7,8 @@ package main
 import (
 	"flag"
 
-	. "github.com/wangwei-go/wfs/conf"
-	"github.com/wangwei-go/wfs/httpserver"
+	. "github.com/wangwei123/wfs/conf"
+	"github.com/wangwei123/wfs/httpserver"
 )
 
 func main() {

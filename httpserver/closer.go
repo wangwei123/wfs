@@ -5,7 +5,7 @@ import (
 	"sync"
 	"time"
 
-	. "github.com/wangwei-go/wfs/conf"
+	. "github.com/wangwei123/wfs/conf"
 )
 
 type Closer interface {

@@ -20,8 +20,8 @@ import (
 	"sync/atomic"
 	"time"
 
-	. "github.com/wangwei-go/wfs/conf"
-	. "github.com/wangwei-go/wfs/db"
+	. "github.com/wangwei123/wfs/conf"
+	. "github.com/wangwei123/wfs/db"
 	"github.com/golang/groupcache/lru"
 	"github.com/golang/snappy"
 )

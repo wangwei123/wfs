@@ -16,8 +16,8 @@ import (
 	"time"
 
 	"github.com/donnie4w/go-logger/logger"
-	. "github.com/wangwei-go/wfs/conf"
-	"github.com/wangwei-go/wfs/storge"
+	. "github.com/wangwei123/wfs/conf"
+	"github.com/wangwei123/wfs/storge"
 	"github.com/julienschmidt/httprouter"
 )
 

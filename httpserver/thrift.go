@@ -16,8 +16,8 @@ import (
 	"time"
 
 	"git.apache.org/thrift.git/lib/go/thrift"
-	. "github.com/wangwei-go/wfs/conf"
-	. "github.com/wangwei-go/wfs/httpserver/protocol"
+	. "github.com/wangwei123/wfs/conf"
+	. "github.com/wangwei123/wfs/httpserver/protocol"
 	//	"github.com/donnie4w/wfs/storge"
 	"github.com/julienschmidt/httprouter"
 )

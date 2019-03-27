@@ -1,4 +1,4 @@
-module github.com/wangwei-go/wfs
+module github.com/wangwei123/wfs
 
 require (
 	git.apache.org/thrift.git v0.12.0
